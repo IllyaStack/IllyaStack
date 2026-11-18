@@ -6,12 +6,11 @@ I completed the **Software Development programme at IT STEP Computer Academy (20
 
 ### What I work with
 
-- **Core languages:** JavaScript, TypeScript, Python, C#, HTML & CSS
-- **Also work with:** C++, Java
-- **Frontend:** React, responsive web interfaces; React Native (coursework)
-- **Backend & data:** ASP.NET Core, .NET, EF Core, Dapper; experience integrating frontend applications with microservices
-- **Infrastructure & workflows:** Git, Docker, Microsoft Azure (coursework), Cloudflare, GitHub Pages
-- **Additional exposure:** Go, Rust, Solidity
+- **Frontend:** React, TypeScript, JavaScript, Tailwind CSS, Zustand, TanStack Query, Vite, HTML5, CSS3
+- **Backend & data:** Python, Flask, Django, SQL, C#, .NET, ASP.NET Core, REST APIs
+- **Programming & tools:** C++, Java, Git, Docker, Supabase, Cloudflare, Microsoft Azure
+- **Software engineering:** Object-oriented programming, software architecture, design patterns, UML, microservices and API integration
+- **Additional knowledge:** React Native, Go and Rust (basic experience), blockchain fundamentals and Python-based blockchain development
 
 ### Selected projects
 
