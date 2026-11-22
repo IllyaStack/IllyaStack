@@ -30,15 +30,6 @@ The shared repository describes:
 
 > The overall architecture and its features are **team achievements**. My individual responsibilities are described separately above.
 
-## Screenshots and evidence
-
-Add screenshots of the frontend and link to specific pull requests or commits that show your frontend and backend work.
-
-<!-- Add screenshots after saving them:
-![SMarket homepage](docs/screenshots/smarket-home.png)
-![Search and product comparison](docs/screenshots/smarket-search.png)
--->
-
 ## Links
 
 - [Team repository](https://github.com/ItStepDiplomaTeam1/smarket)
